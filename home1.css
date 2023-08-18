@@ -1,0 +1,19 @@
+
+
+body{
+    background-image:url("gif.gif");
+    background-repeat:no-repeat;
+    background-size:100% 11%;
+         }
+     .red{margin-top: 19%;
+
+     }    
+
+.ttt{background-image:url("a.png");
+    background-size:100% 100% ;
+    background-attachment: fixed;
+   background-repeat: no-repeat;
+   }
+   .img {
+    display: inline;
+   }

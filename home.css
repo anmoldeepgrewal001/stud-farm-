@@ -1,0 +1,77 @@
+body{
+    background-image:url("pic.jpg");
+    background-repeat:no-repeat;
+    background-size:100% 28% ;
+    background-color: #efeded;
+  }
+.bar a{
+  float: right;
+  color:#000000;
+  font-size: 20px;
+  padding: 10px;
+  text-align:center;
+  margin:0.5%;
+}
+  .bar a:hover{
+    background-color:rgb(186, 143, 32);
+  }
+.abc{
+
+        border-style: solid;
+        border-color: rgb(0, 0, 0);
+      
+    color: black;
+    text-shadow: 2px 2px 4px #000000;
+    text-align:center;
+    margin-top:33%; 
+    font-size: 400%; }
+.h2{
+  font-family: Copperplate, Papyrus, fantasy; 
+}
+.jat{
+  text-align: center;
+  margin-top: 4%;}
+  
+.ab{
+background-size: 22% 22% ;
+}
+
+.ttt{background-image:url("horses.jpg");
+ background-size:100% 150%;
+ background-repeat: no-repeat;
+}
+
+.p{background-image:url("ldh.jpg");
+  background-size:100% 100%;
+  background-repeat: no-repeat;
+ }
+
+ .bg1{
+  background-image: url(horses.jpg);
+   color: black;
+  
+  padding-right: 300px;
+  padding-left: 200px;
+  padding-bottom: 60px;
+ }
+
+ footer{
+  text-align: center;
+  background-color: rgb(7, 7, 7);
+  color: #efeded;
+  /* background-image: url(bg3.jpeg);
+  background-repeat: no-repeat;
+  background-position: right;
+  margin-right: 10%;
+  
+  background-size: 170px 140px; */
+ }
+
+ .link{
+  text-align: center;
+}
+
+.link a:hover{
+  background-color: black;
+  color: white;
+}
